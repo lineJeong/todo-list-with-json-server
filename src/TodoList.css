@@ -1,0 +1,15 @@
+.entire {
+  margin: 3rem;
+}
+
+.todo-list {
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  border: 1px solid black;
+  cursor: pointer;
+  user-select: none;
+}
